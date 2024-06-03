@@ -1,4 +1,4 @@
-# Lazy Page Allocation on x86
+# Lazy Page Allocation on xv6
 
 ## Author
 **Mrugank Jadhav**
